@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="MainWin" mc:Ignorable="d" x:Class="SRT_Transcript.MainWindow"
+        Title="SRT Transcript" Width="525" Background="#FF444247" Icon="Resources\SRTIcon.ico" WindowStyle="SingleBorderWindow" BorderBrush="#FF444247" AllowsTransparency="False">
+    <Grid x:Name="TopGrid" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Image x:Name="DropImage" Grid.Row="0" Grid.Column="0" Source="Resources\Drop.png" Width="100" Height="100" Opacity="0.8" AllowDrop="True" ToolTip="Drag and drop SRT file here" Drop="processDrop"/>
+        <TextBlock x:Name="DropImageCaption" Grid.Row="1" Grid.Column="0" FontWeight="200" Foreground="#FFACACAC" FontSize="16" FontFamily="Gisha" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,1,0,28" Grid.RowSpan="2" >Drag and Drop SRT File here</TextBlock>
+        <TextBlock x:Name="Or" Grid.Row="2" Grid.Column="0" FontSize="16" FontWeight="200" Foreground="#FFACACAC" FontFamily="Gisha" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="5"> -OR- </TextBlock>
+
+        <Button Grid.Row="3" Grid.Column="0" x:Name="openSRT" Background="#FF909193" 
+			BorderBrush="#FFBBBBBB" BorderThickness="1" Padding="6" FontWeight="Bold" Foreground="#FF444247" FontFamily="Gisha" Content="Open the Subtitle File" Click="openFile"/>
+    </Grid>
+</Window>

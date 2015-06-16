@@ -1,0 +1,12 @@
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Release\SRT Transcript.exe.config
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Release\SRT Transcript.exe
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Release\SRT Transcript.pdb
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\MainWindow.baml
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\MainWindow.g.cs
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\App.g.cs
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT Transcript_MarkupCompile.cache
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT Transcript.g.resources
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT_Transcript.Properties.Resources.resources
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT Transcript.csproj.GenerateResource.Cache
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT Transcript.exe
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Release\SRT Transcript.pdb

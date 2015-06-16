@@ -1,0 +1,12 @@
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Debug\SRT Transcript.exe.config
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Debug\SRT Transcript.exe
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\bin\Debug\SRT Transcript.pdb
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\MainWindow.baml
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\MainWindow.g.cs
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\App.g.cs
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT Transcript_MarkupCompile.cache
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT Transcript.g.resources
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT_Transcript.Properties.Resources.resources
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT Transcript.csproj.GenerateResource.Cache
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT Transcript.exe
+R:\Athena - Goddess of Intellects\Code and Projects\SRT Transcript\obj\Debug\SRT Transcript.pdb
