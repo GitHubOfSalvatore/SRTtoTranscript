@@ -2,7 +2,9 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="MainWin" mc:Ignorable="d" x:Class="SRT_Transcript.MainWindow"
+
         Title="SRT Transcript" Width="525" Background="#FF444247" Icon="Resources\SRTIcon.ico" WindowStyle="SingleBorderWindow" BorderBrush="#FF444247" AllowsTransparency="False">
+		
     <Grid x:Name="TopGrid" VerticalAlignment="Center" HorizontalAlignment="Center">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>

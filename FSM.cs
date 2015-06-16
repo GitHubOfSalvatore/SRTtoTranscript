@@ -50,7 +50,6 @@ namespace SRT_Transcript
             new sTransRules(eSTATECODE.STATE_BLANK, eEVENTCODE.EVENT_EOF, eSTATECODE.STATE_ACCEPT),
 
         };
-
         //A method to validate numbers
         public bool bSTATE_NUM_FN(string s)
         {

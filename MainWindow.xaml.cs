@@ -29,7 +29,7 @@ namespace SRT_Transcript
 
         private void processDrop(object sender, DragEventArgs e)
         {
-            Console.WriteLine("Drop Ocurred");
+            Console.WriteLine("Drop Occurred");
             string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
             foreach (string sFile in files)
                 ValidateAndConverSRT(sFile);
@@ -108,7 +108,6 @@ namespace SRT_Transcript
                 Console.WriteLine(ex.ToString());
             }
         }
-
         private void openFile(object sender, RoutedEventArgs e)
         {
             // Create an instance of the open file dialog box.
